@@ -4,7 +4,7 @@ title: "2020년 9급 공무원 국가직/지방직 7개월 단기합격 수기"
 description: ""
 date: 2020-09-07
 feature_image: images/road.jpg
-tags: [official_exam]
+tags: [etc]
 ---
 
 2020년도에 작성된 합격 후기입니다. 현행 공무원 시험과는 많이 다르니 참고만 해주세요.
